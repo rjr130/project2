@@ -1,5 +1,4 @@
-# Ruby on Rails Tutorial: sample application
+# CS 369 Project 2
 
-This is the sample application for
-the [*Ruby on Rails Tutorial*](http://railstutorial.org/)
-by [Michael Hartl](http://michaelhartl.com/).
+This is the project 2 for CS 369 by
+Zhexuan Liu and [Junrui Ruan](http://junruiruan.com/).
