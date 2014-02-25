@@ -1,5 +1,5 @@
-# CS369@UW-Madison : Project2
+# Ruby on Rails Tutorial: sample application
 
-This is the Project 2 for
-the CS369 @ [*UW-Madison*](http://wisc.edu/)
-by [Junrui Ruan](http://junruiruan.com/).
+This is the sample application for
+the [*Ruby on Rails Tutorial*](http://railstutorial.org/)
+by [Michael Hartl](http://michaelhartl.com/).
